@@ -16,7 +16,7 @@
 	<title>Pediatras en Toluca | Inicio </title>
 
 	<!-- Standard Favicon -->
-	<link rel="icon" type="image/x-icon" href="assets/images//favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="assets/images//favicon_pediapekes.ico" />
 
 	<!-- For iPhone 4 Retina display: -->
 	<link rel="apple-touch-icon-precomposed" href="assets/images//apple-touch-icon-114x114-precomposed.png">

@@ -4,7 +4,7 @@
     <!-- Top Header -->
     <div class="default-top row">
       <div class="logo-block">
-        <a class="navbar-brand mobile-hide" href="index.html"><i class="fa fa-heartbeat"></i></a>
+        <a class="navbar-brand mobile-hide" href="index.html"><img src="assets/images/logotipo_pediapekes.png"  style="height: 49px;"></i></a>
         <!--<img src="assets/images/Logo_pediapekes.png">-->
       </div>
       <a href="tel:386489550686" title="+386 489 550 686" class="phone-call"><i class="fa fa-phone-square"></i>+386 489 550 686</a>
